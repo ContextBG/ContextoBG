@@ -1,0 +1,5 @@
+{
+  "name": "Контексто БГ",
+  "description": "Българска версия на популярната игра Contexto. Отгатнете тайната дума чрез семантична близост.",
+  "requestFramePermissions": ["microphone"]
+}
